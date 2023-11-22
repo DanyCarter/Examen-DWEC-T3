@@ -1,11 +1,12 @@
 body{
    text-align: center; 
    background-color: black;
+   font-size: 80px;
 }
 
 h1{
 text-align: center;
-
+text-shadow: thistle;
 }
 
 
